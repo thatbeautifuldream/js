@@ -1,2 +1,1 @@
-# js
-Js notes
+# Js Docs
